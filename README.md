@@ -6,6 +6,8 @@ If yes, it is informed by a message and notified on the desk.
 
 <img src="https://github.com/daltomi/chkpasswd/raw/master/screenshots/scr0.png"/>
 
+<img src="https://github.com/daltomi/chkpasswd/raw/master/screenshots/scr1.png"/>
+
 #### User and password:
 
 The default password is `toor` for chkpasswd.desktop
